@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mesh>
+  <attributes>
+    <attribute name="position" size="2" type="GL_FLOAT" normalized="GL_FALSE" stride="0" offset="0" />
+  </attributes>
+  <vertices>
+    <vertex>
+      <position  x="0.0f" y="0.5f" />
+    </vertex>
+    <vertex>
+      <position x="0.5f" y="-0.5f" />
+    </vertex>
+    <vertex>
+      <position x="-0.5f" y="-0.5f" />
+    </vertex>
+  </vertices>
+  <elements>
+    <element a="0" b="1" c="2" />
+  </elements>
+</mesh>

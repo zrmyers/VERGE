@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entity>
+	<Component type="MeshRenderer" >
+		<Resource type="Mesh" handle="cube" />
+		<Attribute type="String" name="DRAW_MODE" value="GL_TRIANGLES" />
+		<!-- <Resource type="Material" handle="wooden_crate" /> -->
+	</Component>
+	<!-- <Component type="Transform" >
+		<Translation X="0" Y="0" Z="0" />
+		<Rotation X="0" Y="0" Z="0" />
+		<Scale X="1" Y="1" Z="1" /> 
+	</Component> -->
+</Entity>
